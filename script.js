@@ -16,7 +16,7 @@ const itemColors = {
     C: "gray",
     U: "green",
     R: "blue",
-    E: "rgb(123, 62, 156)",
+    E: "rgb(163, 53, 238)",
 };
 
 const soundMap = {
